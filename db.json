@@ -1,14 +1,61 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "question": [
+    {
+      "id": "Q1",
+      "content": "Ngôn ngữ Java ra đời năm nào ?",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Năm 1995"
+        },
+        {
+          "id": 2,
+          "content": "Năm 1996"
+        },
+        {
+          "id": 3,
+          "content": "Năm 1997"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": "Q2",
+      "content": "Ngôn ngữ Java ra đời năm nào ?",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Năm 1995"
+        },
+        {
+          "id": 2,
+          "content": "Năm 1996"
+        },
+        {
+          "id": 3,
+          "content": "Năm 1997"
+        }
+      ],
+      "correct": 1
+    },
+    {
+      "id": "Q3",
+      "content": "Ngôn ngữ Java ra đời năm nào ?",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Năm 1995"
+        },
+        {
+          "id": 2,
+          "content": "Năm 1996"
+        },
+        {
+          "id": 3,
+          "content": "Năm 1997"
+        }
+      ],
+      "correct": 1
+    }
+  ]
 }
